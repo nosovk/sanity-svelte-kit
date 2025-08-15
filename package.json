@@ -1,6 +1,6 @@
 {
   "name": "sveltekit-sanity-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
@@ -25,7 +25,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@sanity/client": "^3.3.0",
+    "@sanity/client": "^7.0.0",
     "@sanity/image-url": "^1.0.1"
   }
 }
